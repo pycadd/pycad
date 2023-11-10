@@ -14,18 +14,7 @@ Welcome to PYCAD, a comprehensive library designed to simplify and streamline me
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/amine0110/pycad.git
-   ```
-2. **Walk to PYCAD**
-
-   ```bash
-   cd pycad
-   ```
-
-3. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
+   pip install pycad-medic
    ```
 
 For more installation instructions, please see [this](https://github.com/amine0110/pycad/blob/main/docs/getting_started.md).
@@ -37,7 +26,7 @@ For more installation instructions, please see [this](https://github.com/amine01
 - **Data Preprocessing**: Including data splitting and annotation conversion.
 - **Dataset Creation**: Configurations for YOLOv8.
 
-For detailed usage and examples, refer to the [tutorials](./tutorials) (*coming soon*) directory and [documentation](./docs).
+For detailed usage and examples, refer to the [tutorials](./tutorials) directory and [documentation](./docs).
 
 ## Contributions & Support
 
