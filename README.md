@@ -6,8 +6,6 @@
 
 Welcome to PYCAD, a comprehensive library designed to simplify and streamline medical imaging tasks. From data preprocessing to advanced visualization, PYCAD empowers professionals, researchers, and enthusiasts to harness the power of modern algorithms and techniques with ease.
 
-**🔜 Coming Soon**: We're actively working on enhancing the PYCAD experience for our users. Stay tuned for a comprehensive suite of tutorials covering all facets of the library.
-
 
 ## Installation
 
@@ -27,6 +25,9 @@ For more installation instructions, please see [this](https://github.com/amine01
 - **Dataset Creation**: Configurations for YOLOv8.
 
 For detailed usage and examples, refer to the [tutorials](./tutorials) directory and [documentation](./docs).
+
+## What is New?
+The latest release contains some new exciting features, if you want to know more about the new features you can read the [release features documentation](https://github.com/amine0110/pycad/tree/main/docs/releases/v_0_0_10.md).
 
 ## Contributions & Support
 
